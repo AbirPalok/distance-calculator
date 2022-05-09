@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "AIzaSyDgewMlQ1DYFFHstvY3-KSMqVE8S1E8AbM"
+API_KEY = ""
 
 url = "https://maps.googleapis.com/maps/api/distancematrix/json"
 
